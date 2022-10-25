@@ -1,0 +1,46 @@
+{
+    "version": "1.0",
+    "sourceName": "蛋仔官方软件源",
+    "sourceAuthor": "Danzai Hacker",
+    "sourceLinkTitle": "主页",
+    "sourceLinkUrl": "https://m.kedi168.com/links/7662EC34",
+    "sourceImage": "",
+    "sourceUpdateTime": "2022-10-25T11:00:00+0800", 
+    "sourceDescription": "蛋仔官方软件源的描述",
+    "appCategories": [
+        "PUBG国际服"
+    ],
+    "appRepositories": [
+        {
+            "appType": "ENT_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-10-25T11:00:00+0800",
+            "appName": "1.5全球精简版",
+            "appVersion": "1.5.0",
+            "appImage": "file:///Users/huangguanming/Downloads/eb1fd3013dd1d4655f111711d75e77d0.jpeg",
+            "appPackage": "https://share.weiyun.com/VP1dpWsx",
+            "appDescription": "绘制玩家信息反后坐小范围子庙（演戏）"
+        },
+
+        {
+            "appType": "VIP测试（目前源内所有软件全部免费，不存在收费，但有些软件需要卡密，请购买）",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-10-25T11:00:00+0800",
+            "appName": "LSearch",
+            "appVersion": "1.0",
+            "appPlist": "https://www.lanzous.com/i7rn4hi",
+            "appDescription": "VIP测试用，点下载，然后签名，再安装，如果能正常打开，则证明VIP成功"
+        },
+
+        {
+            "appType": "LINK",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-10-25T11:00:00+0800",
+            "appName": "蛋仔零度卡密官网",
+            "appVersion": "1.0",
+            "appImage": "https://cdn.ar-vip.vip/6357619f453fc/6357619f4543c.jpg",
+            "appLink": "https://m.kedi168.com/links/7662EC34",
+            "appDescription": "已成功打开网页，请自由购买对应卡密"
+        }
+    ]
+}
